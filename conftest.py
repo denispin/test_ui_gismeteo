@@ -1,6 +1,6 @@
 import pytest
 
-from application import Application
+from fixture.application import Application
 from helpers.asserts_accumulator import AssertsAccumulator
 
 
